@@ -13,9 +13,9 @@
 | carrier | SIMULATOR | 运营商Code |
 | country | US | 国家 |
 | disk | 499963170816 | 手机可用空间 | 
-| hwmodel | D10AP | hwmodel |
+| hwmodel | D10AP | hw.model |
 | language | zh-Hans-US | 语言 |
-| model | iPhone10,3 | model |
+| model | iPhone10,3 | hw.machine |
 | ram | 34359738368 | 内存大小 | 
 | timezone | 28800 | 时区 | 
 | uname | eHjnmoRpUGhvbmUxMw== | 手机名称Base64 |
