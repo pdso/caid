@@ -269,7 +269,7 @@ static NSString *getSystemHardwareByName(const char *typeSpecifier) { size_t siz
     NSString *boot = [[self class] getSysBootTime];
     
     NSString *timezone = [[self class] getTimeZone];
-    NSString *langeuage = [[self class] getLanguage];
+    NSString *language = [[self class] getLanguage];
     NSString *hwmodel = [[self class] getHwModel];
     NSString *model =  getSystemHardwareByName("hw.machine");
     
@@ -282,7 +282,7 @@ static NSString *getSystemHardwareByName(const char *typeSpecifier) { size_t siz
                           @"country": country,
                           @"boot": boot,
                           @"timezone": timezone,
-                          @"lanaguage": langeuage,
+                          @"language": language,
                           @"hwmodel": hwmodel,
                           @"model": model,
                           @"version": [UIDevice currentDevice].systemVersion};
