@@ -18,7 +18,7 @@
 | model | iPhone10,3 | model |
 | ram | 34359738368 | 内存大小 | 
 | timezone | 28800 | 时区 | 
-| uname | xx的iPhone13 | 手机名称 |
+| uname | eHjnmoRpUGhvbmUxMw== | 手机名称Base64 |
 | update | 1611888252 | 系统更新时间 |
 | version | 10.3 | 系统版本 |  
 
