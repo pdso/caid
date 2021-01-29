@@ -1,0 +1,6 @@
+use_frameworks!
+target 'caid_Tests' do
+  pod 'caid', :path => '../'
+  
+  
+end
