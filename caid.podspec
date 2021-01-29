@@ -19,6 +19,6 @@ Pod::Spec.new do |s|
 
   s.source_files = 'caid/Classes/**/*'
 
-  s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'caid/Classes/**/*.h'
   s.frameworks = 'UIKit', 'CoreTelephony'
 end
