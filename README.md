@@ -12,7 +12,7 @@
 | boot | 1611888252 | 系统启动时间 |
 | carrier | SIMULATOR | 运营商Code |
 | country | US | 国家 |
-| disk | 499963170816 | 手机可用空间 | 
+| disk | 499963170816 | 硬盘容量 | 
 | hwmodel | D10AP | hw.model |
 | language | zh-Hans-US | 语言 |
 | model | iPhone10,3 | hw.machine |
